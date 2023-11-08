@@ -10,10 +10,10 @@
       "経度",
       "スポット名",
       "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト",
-      "Facebook"
+      "公式サイト1",
+      "公式サイト2",
+      "公式サイト3",
+      "公式サイト4"
     ],
     [
       "2022/05/11 14:46:34",
@@ -23,10 +23,10 @@
       "139.6985592",
       "ゲロニア",
       "株式会社Geoloniaの東京オフィスです",
-      "geolonia",
-      "geoloniamap",
-      "https://geolonia.com",
-      "geolonia"
+      "",
+      "https://www.way-holdings.co.jp/",
+      "https://chipotle.co.jp/",
+      "https://way-cast.co.jp/"
     ]
   ]
 }
