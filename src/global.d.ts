@@ -12,7 +12,7 @@ declare namespace Pwamap {
     'URL': string;
     'Instagram': string;
     'Twitter': string;
-    'Facebook': string;
+    '公式サイト2': string;
     '公式サイト': string
   }
 
