@@ -10,10 +10,10 @@ declare namespace Pwamap {
     '紹介文': string;
     '画像': string;
     'URL': string;
-    '公式サイト1': string;
-    '公式サイト2': string;
-    '公式サイト3': string;
-    '公式サイト4': string
+    'Instagram': string;
+    'Twitter': string;
+    'Facebook': string;
+    '公式サイト': string
   }
 
   type LngLat = [number, number]
