@@ -1,7 +1,32 @@
 {
-  "error": {
-    "code": 500,
-    "message": "Internal error encountered.",
-    "status": "INTERNAL"
-  }
+  "range": "'スポットデータ'!A1:K84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "Facebook",
+      "公式サイト"
+    ],
+    [
+      "2022/05/11 14:46:34",
+      "オフィス",
+      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
+      "35.65699958",
+      "139.6985592",
+      "ゲロニア3",
+      "株式会社Geoloniaの東京オフィスです\nタグが…使えません…\n<a href=\"faq.html\">ボブの父親の会社のよくある質問ページ</a>",
+      "",
+      "https://www.way-holdings.co.jp/",
+      "https://chipotle.co.jp/",
+      "https://way-cast.co.jp/"
+    ]
+  ]
 }
